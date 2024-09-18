@@ -5,3 +5,11 @@
         <li>{{ menu.name }} {{ menu.price }}원</li>
         {% endfor %}
 </ul>
+
+{% if pick.price > 700 %}
+<p>비싸다!!</p>
+{% elif pick.price > 500%}
+<p>해볼만하다!!</p>
+{% else %}
+<p>맛있겠다!!</p>
+{% endif %}
