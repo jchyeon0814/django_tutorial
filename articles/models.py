@@ -18,7 +18,7 @@ class Animation(models.Model):
     
     title = models.CharField(max_length=70, default='')
     original_title = models.CharField(max_length=70, default='')
-    genre = models.ManyToManyField(Genre, related_name="animations")
+    genre = models.ManyToManyField(Genre, related_name="articles")
     company = models.CharField(max_length=70, default='')
     rated = models.CharField(max_length=70, default='')
     broadcasted_date = models.CharField(max_length=70, default='')

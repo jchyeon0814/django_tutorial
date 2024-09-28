@@ -1,0 +1,26 @@
+[
+  {
+    "model": "articles.genre",
+    "fields": {
+      "name": "이세계"
+    }
+  },
+  {
+    "model": "articles.genre",
+    "fields": {
+      "name": "판타지"
+    }
+  },
+  {
+    "model": "articles.genre",
+    "fields": {
+      "name": "전투"
+    }
+  },
+  {
+    "model": "articles.genre",
+    "fields": {
+      "name": "SF"
+    }
+  }
+]

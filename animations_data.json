@@ -1,0 +1,52 @@
+[
+  {
+    "model": "articles.animation",
+    "fields": {
+      "title": "해골기사님은 지금 이세계 모험 중",
+      "original_title": "해골기사",
+      "genre": [
+        1,
+        2
+      ],
+      "company": "스튜디오 KAI",
+      "rated": 15,
+      "broadcasted_date": "2022년",
+      "chapters": "9화",
+      "story": "몰라 해골기사님 모험하는 얘기겠지",
+      "img": "https://www.google.com/chrome/static/images/chrome-logo-m100.svg"
+    }
+  },
+  {
+    "model": "articles.animation",
+    "fields": {
+      "title": "마법사의 여행기",
+      "original_title": "여행기",
+      "genre": [
+        2
+      ],
+      "company": "테즈카 프로덕션",
+      "rated": 15,
+      "broadcasted_date": "2022년",
+      "chapters": "9화",
+      "story": "제로에서 시작하는 마법의 서'의 후속작",
+      "img": "https://www.google.com/chrome/static/images/intl/ko_KR/whats-new/129/win/pay-2x.webp"
+    }
+  },
+  {
+    "model": "articles.animation",
+    "fields": {
+      "title": "서머타임 펜더",
+      "original_title": "펜더이야기",
+      "genre": [
+        3,
+        4
+      ],
+      "company": "OLM",
+      "rated": 15,
+      "broadcasted_date": "2022년",
+      "chapters": "8화",
+      "story": "어릴 적 친구인 우시오가 죽었다 불라불라",
+      "img": "https://www.google.com/chrome/static/images/intl/ko_KR/whats-new/128/v1/win/lens-2x.webp"
+    }
+  }
+]
